@@ -24,8 +24,8 @@ years of experience in the field, I have honed my expertise in front-end and bac
 - **Others:** APIs REST, ágil,
 
 <p align="left">
-  <a href="https://noellorad.github.io/">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,java,php,py,css,html,js,nodejs,mysql,git,github,materialui,postman,eclipse,vscode,bash,linux&perline=12" alt="Tecnologías" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,java,php,py,css,html,js,nodejs,mysql,git,github,materialui,postman,eclipse,vscode,bash,aws,react,vue,bootstrap,npm,postgres,ubuntu,windows,linux&perline=12" alt="Tecnologías" />
   </a>
 </p>
 
