@@ -24,11 +24,11 @@ years of experience in the field, I have honed my expertise in front-end and bac
 - **Others:** APIs REST, ágil,
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://noellorad.github.io/">
     <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" alt="Tecnologías que uso" />
   </a>
 </p>
----
+
 
 ## 📂 Most Featured Web Projects
 
