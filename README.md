@@ -30,33 +30,6 @@ years of experience in the field, I have honed my expertise in front-end and bac
 </p>
 
 
-## 📂 Most Featured Web Projects
-
-### 1️⃣ [E-Delivery](https://github.com/Aurora-Technologies-GPS/edelivery.git)
-Brief description of the project:  
-- **Technologies used:** Vuejs, Node.js, PostgreSQL
-- **Key Features:** Authentication, integrations with external APIs, responsive design, ChartJs
-- **Repositorio:** (https://github.com/Aurora-Technologies-GPS/BackEndCombinado.git)
-
-### 1️⃣ [Transfers](https://github.com/Aurora-Technologies-GPS/transfers.git)
-Brief description of the project:  
-- **Technologies used:** Vuejs, sockets
-- **Key Features:** Authentication, integrations with external APIs, responsive design, ChartJs
----
-
-### 1️⃣ [Notification Manager](https://github.com/Aurora-Technologies-GPS/notificationManager.git)
-Brief description of the project:  
-- **Technologies used:** Vuejs, Node.js, PostgreSQL
-- **Key Features:** Authentication, integrations with external APIs, responsive design
-- **Repositorio:** (https://github.com/Aurora-Technologies-GPS/BackEndCombinado.git)
-
-### 1️⃣ [Full-stack CESVA sensor](https://github.com/Aurora-Technologies-GPS/full-stack-Sensors_CESVA-SmartCitizen.git)
-Brief description of the project:  
-- **Technologies used:** EJS, Node.js, MongoDB
-- **Key Features:** Authentication, integrations with external APIs, responsive design, ChartJs
-- **Repositorio:** (https://github.com/Aurora-Technologies-GPS/SmartCitizen_me_Sensor_mongodb_ResAPI.git)
-
-
 ## 🌐 Connect with me
 
 <p align="left">
