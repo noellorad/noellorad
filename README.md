@@ -59,4 +59,10 @@ I’m a Software Engineer focused on building scalable web applications, backend
 ---
 
 ## 📅 Availability
-I am available for collaborations, freelancing or full-time roles, Remote opportunities. Don't hesitate to contact me! 🚀
+
+🚀 Open to:
+- Freelance projects  
+- Remote roles  
+- Full-time opportunities  
+
+If you're looking for someone who can handle both **software and infrastructure**, let’s connect.
