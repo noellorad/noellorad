@@ -32,7 +32,7 @@ I’m a Software Engineer focused on building scalable web applications, backend
   
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,java,php,py,css,html,js,nodejs,mysql,git,github,materialui,postman,eclipse,vscode,bash,aws,react,vue,bootstrap,npm,postgres,ubuntu,windows,linux&perline=12" alt="Tecnologías" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,java,php,py,css,html,js,nodejs,mysql,git,github,materialui,postman,eclipse,vscode,bash,aws,react,vue,bootstrap,npm,postgres,ubuntu,windows,linux,cpp,arduino&perline=12" alt="Tecnologías" />
   </a>
 </p>
 
