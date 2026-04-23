@@ -15,7 +15,8 @@ I’m a Software Engineer with a strong background in full-stack development, ne
 ---
 
 ##  Tech Stack
-- **Programming Languages:** Nodejs, JavaScript / TypeScript, Python, PLC, Arduino, ESP32, C / C++ (embedded & electronics), Java
+- **Programming Languages:**
+    Nodejs, JavaScript / TypeScript, Python, PLC, Arduino, ESP32, C / C++ (embedded & electronics), Java
 - **Frameworks and librerías:** Nextjs, React / React Native (Expo), Vuejs Nodejs, Express, Material UI / Bootstrap
 - **DataBase:** MongoDB, MySQL, PostgreSQL
 - **DevOps & Systems:** Networking & Infrastructure, AWS, Linux, Docker & Docker Compose
