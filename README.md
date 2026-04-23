@@ -2,17 +2,14 @@
 
 Hi there! 👋
 Welcome to my GitHub profile
-I’m a Software Engineer with a strong background in full-stack development, networking, and systems engineering. I enjoy building scalable applications, working close to the infrastructure, and solving real-world problems with clean and efficient solutions.
+I’m a Software Engineer focused on building scalable web applications, backend systems, and infrastructure-driven solutions.
 ---
-
 ## 🚀 About Me
-🎓 Software Engineering graduate from O&M Universitys. 
-💼 +5 years of experience in software development & IT
-🧠 Strong background in networks, systems, and backend architecture
-🌎 Based in the Dominican Republic  
-⚡ Passionate about automation, performance, and low-level problem solving
-
----
+- 🎓 Software Engineering graduate from O&M University  
+- 💼 +5 years of experience in software development & IT  
+- 🧠 Strong background in backend systems, networking, and infrastructure  
+- 🌎 Based in the Dominican Republic  
+- ⚡ Passionate about automation, performance, and low-level problem solving  
 
 ## 🛠️ Tech Stack
 
