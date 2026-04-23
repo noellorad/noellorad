@@ -22,23 +22,12 @@ I’m a Software Engineer focused on building scalable web applications, backend
 | 🔐 Security   | Nmap, Metasploit, Kali, Autopsy |
 | 🔌 Embedded   | Arduino, ESP32 |
 
-## 📌 Featured Projects
-
-- 📦 Inventory Dashboard System
-  - Full-stack app with filtering, virtualization, and backend-driven data
-
-- 🚗 IOT Devices App
-  - Connects to ELM327 via Bluetooth and reads vehicle data
-
-- 🖥️ Self-hosted Infrastructure (Linux + Docker)
-  - NVR setup, containers, and internal network services
-
-##  What Makes Me Different
-- Strong backend + infrastructure mindset
-- Ability to work with hardware + software integration
-- Deep understanding of networks and connectivity
-- Comfortable debugging low-level issues (Bluetooth, devices, protocols, etc.)
-- Builder mindset: I focus on making things work end-to-end
+## 🧠 What Makes Me Different
+- Strong backend and infrastructure-driven mindset  
+- Ability to bridge hardware and software systems  
+- Deep understanding of networking and connectivity  
+- Comfortable debugging low-level issues (Bluetooth, protocols, devices)  
+- Focused on building complete, end-to-end solutions  
 
   
 <p align="left">
