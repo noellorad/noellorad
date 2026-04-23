@@ -14,31 +14,16 @@ I’m a Software Engineer with a strong background in full-stack development, ne
 
 ---
 
-##  Tech Stack
-### **Programming Languages:**
-- Nodejs, JavaScript / TypeScript
-- Python, Java, PLC, Arduino
-- ESP32, C / C++ (embedded & electronics)
-### **Frameworks and librerías:**
-- Nextjs, React / React Native (Expo)
-- Vuejs Nodejs, Express
-- Material UI / Bootstrap
-### **DataBase:**
-- MongoDB
-- MySQL
-- PostgreSQL
-### **DevOps & Systems:**
-- Networking & Infrastructure,
-- AWS, Linux,
-- Docker & Docker Compose
-### **Ciber Security and tools:**
-- Digital Forensics
-- Vulnerability Scanning
-- Tools: Nmap, Metasploit, Kali Linux, Autopsy, SIEM fundamentals
-### **Others:**
-- APIs REST, GraphQL
-- ágil methodologies
-- Git & GitHub
+## 🛠️ Tech Stack
+
+| Category        | Technologies |
+|----------------|------------|
+| 💻 Languages   | JS, TS, Python, Java, C/C++ |
+| ⚙️ Frameworks | Next.js, React, Express, Vue |
+| 🗄️ Databases  | PostgreSQL, MongoDB, MySQL |
+| ☁️ DevOps     | Docker, AWS, Linux |
+| 🔐 Security   | Nmap, Metasploit, Kali, Autopsy |
+| 🔌 Embedded   | Arduino, ESP32 |
 
 ##  What Makes Me Different
 - Strong backend + infrastructure mindset
