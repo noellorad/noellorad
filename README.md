@@ -1,28 +1,35 @@
 # 🌟 Noel Lora - App developer
 
-¡Hola! 👋 Welcome to my developer portfolio. Here you will find information about me, my skills and the projects I have worked on. I am always looking for opportunities to learn and collaborate on new challenges.
-
+Hi there! 👋
+Welcome to my GitHub profile
+I’m a Software Engineer with a strong background in full-stack development, networking, and systems engineering. I enjoy building scalable applications, working close to the infrastructure, and solving real-world problems with clean and efficient solutions.
 ---
 
 ## 🚀 About Me
-I am a passionate full stack web developer with a strong foundation in software development and networking. I hold a degree in Software 
-Engineering from O&M University, complemented by various certifications in programming, database management, and network security. With 5 
-years of experience in the field, I have honed my expertise in front-end and back-end development, as well as IT and networking solutions. 
-
-🌍 **Location:** República Dominicana  
-💻 **Main Programming Languages:** Nodejs, JavaScript, Python  
-📚 **Currently learning:**  React 
-🎯 **Goal :** My professional goal is to grow as a full-stack developer, improving both backend and frontend skills to build complete, scalable, and optimized applications. I also aim to contribute to open-source projects to enhance my skills, collaborate with other developers, and give back to the community.
+🎓 Software Engineering graduate from O&M Universitys. 
+💼 +5 years of experience in software development & IT
+🧠 Strong background in networks, systems, and backend architecture
+🌎 Based in the Dominican Republic  
+⚡ Passionate about automation, performance, and low-level problem solving
 
 ---
 
-## 🛠️ Skills
-- **Programming Languages:** Nodejs, JavaScript, Python, PLC, Arduino, Java
-- **Frameworks and librerías:** Vuejs Nodejs, Express, Boostrap
+##  Tech Stack
+- **Programming Languages:** Nodejs, JavaScript / TypeScript, Python, PLC, Arduino, ESP32, C / C++ (embedded & electronics), Java
+- **Frameworks and librerías:** Nextjs, React / React Native (Expo), Vuejs Nodejs, Express, Material UI / Bootstrap
 - **DataBase:** MongoDB, MySQL, PostgreSQL
-- **tools and platforms:** Git, AWS, Linux
-- **Others:** APIs REST, ágil,
+- **DevOps & Systems:** Networking & Infrastructure, AWS, Linux, Docker & Docker Compose
+- **Ciber Security and tools:** Digital Forensics, Vulnerability Scanning, Tools: Nmap, Metasploit, Kali Linux, Autopsy, SIEM fundamentals
+- **Others:** APIs REST, GraphQL, ágil methodologies, Git & GitHub
 
+##  What Makes Me Different
+- Strong backend + infrastructure mindset
+- Ability to work with hardware + software integration
+- Deep understanding of networks and connectivity
+- Comfortable debugging low-level issues (Bluetooth, devices, protocols, etc.)
+- Builder mindset: I focus on making things work end-to-end
+
+  
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,c,java,php,py,css,html,js,nodejs,mysql,git,github,materialui,postman,eclipse,vscode,bash,aws,react,vue,bootstrap,npm,postgres,ubuntu,windows,linux&perline=12" alt="Tecnologías" />
@@ -52,4 +59,4 @@ years of experience in the field, I have honed my expertise in front-end and bac
 ---
 
 ## 📅 Availability
-I am available for collaborations, freelancing or full-time roles. Don't hesitate to contact me! 🚀
+I am available for collaborations, freelancing or full-time roles, Remote opportunities. Don't hesitate to contact me! 🚀
